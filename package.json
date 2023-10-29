@@ -61,8 +61,5 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^6.0.0",
-  }
+  "license": "ISC"
 }
